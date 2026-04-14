@@ -2,10 +2,11 @@
 
 This repository contains a complete SQL implementation for the Nairobi Academy school management system assignment. The project demonstrates the transition from database design to data manipulation and advanced analytical querying.
 
-Project Overview
+**Project Overview**
+
 The primary objective of this project was to act as a Database Administrator to build and manage a secondary school database. It covers the creation of schemas, tables for students, subjects, and exam results, and the execution of various queries to extract meaningful school insights.
 
-Key Features
+**Key Features**
 
 Database Schema Design (DDL): Defined the nairobi_academy schema and structured tables with specific data types and constraints.
 
@@ -27,15 +28,15 @@ Database Schema
 The database consists of three primary tables:
 
 
-students: Stores personal details including name, gender, date of birth, and city.
+1. students: Stores personal details including name, gender, date of birth, and city.
 
 
-subjects: Contains curriculum information, department categorization, and assigned teachers.
+2. subjects: Contains curriculum information, department categorization, and assigned teachers.
 
 
-exam_results: Tracks student performance across various subjects with specific marks and grades.
+3. exam_results: Tracks student performance across various subjects with specific marks and grades.
 
 
 
 
-This project was completed as part of the SQL fundamentals curriculum at @LuxDevHQ
+This project was completed as part of the SQL fundamentals curriculum at **@LuxDevHQ**
